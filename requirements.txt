@@ -1,0 +1,20 @@
+# dependencies for chatterbot
+# python -m spacy download en
+# python -m spacy download en_core_web_md
+# python -m spacy link en_core_web_md en
+
+
+chatterbot
+chatterbot.corpus
+spacy
+pyttsx3
+pyaudio
+SpeechRecognition
+pipwin
+threading
+selenium
+pymongo
+nltk
+# pipwin install pyaudio
+# selenium chromedrivers
+# choco install chromedrive
